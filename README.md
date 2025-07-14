@@ -1,5 +1,9 @@
 # tier4_planning_launch
 
+> **Note:** 
+> This package is only compatible with the latest Autoware main branch, which uses autoware_universe v0.45.0.
+> Compatibility with other versions is not guaranteed.
+
 ## Structure
 
 ![tier4_planning_launch](./planning_launch.drawio.svg)

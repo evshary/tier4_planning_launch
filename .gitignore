@@ -1,0 +1,11 @@
+# ROS data
+/install/
+/build/
+/log/
+
+# Ignore editor files
+*~
+.*~
+\#*#
+*.swp
+*.swo
